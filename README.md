@@ -114,3 +114,17 @@ fixed | 뷰포트 | X
 
 <span style="text-decoration: underline;">동해물</span>과 <u>백두산</u>이 마르고 닳도록<br />
 하느님이 보우하사 우리나라 만세
+
+<a herf="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+
+<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+
+# 수평선(Horizontal Rule)
+
+---
+
+***
+
+___
+
+[GITHUB](https://github.com/jkpark-104/markdown-practice)
