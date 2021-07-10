@@ -73,4 +73,44 @@ CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 �
 
 # 블록(block) 코드 강조
 
+```html
 <a herf="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+```
+
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+}
+```
+
+```javascript
+function func() {
+  var a = 'AAA';
+  return a;
+}
+```
+
+```bash
+$ git commit -m 'Study Markdown'
+```
+
+```plaintext
+동해물과 백두산이 마르고 닳도록
+```
+
+# 표(Table)
+
+position 속성
+
+값 | 의미 | 기본값
+--|:--:|--:
+static | 기준 없음 | O
+relative | 요소 자신 | X
+absolute | 위치 상 부모 요소 | X
+fixed | 뷰포트 | X
+
+# 원시HTML(Raw HTML)
+
+<span style="text-decoration: underline;">동해물</span>과 <u>백두산</u>이 마르고 닳도록<br />
+하느님이 보우하사 우리나라 만세
